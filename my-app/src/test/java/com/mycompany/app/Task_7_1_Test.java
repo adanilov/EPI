@@ -21,4 +21,8 @@ public class Task_7_1_Test extends TestCase {
         assertTrue(Task_7_1.stringToInt("-345") == -345);
     }
 
+    public void test4() {
+        assertTrue(Task_7_1.stringToInt("0") == 0);
+    }
+
 }
