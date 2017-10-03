@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.mycompany.app._7_Strings;
 
 public class Task_7_5 {
 

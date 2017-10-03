@@ -1,5 +1,6 @@
-package com.mycompany.app;
+package com.mycompany.app._7_Strings;
 
+import com.mycompany.app._7_Strings.Task_7_2;
 import junit.framework.TestCase;
 
 public class Task_7_2_Test extends TestCase {

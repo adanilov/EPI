@@ -1,8 +1,8 @@
-package com.mycompany.app;
+package com.mycompany.app._7_Strings;
 
+import com.mycompany.app._7_Strings.Task_7_7;
 import junit.framework.TestCase;
 
-import java.util.Arrays;
 import java.util.List;
 
 public class Task_7_7_Test extends TestCase {
