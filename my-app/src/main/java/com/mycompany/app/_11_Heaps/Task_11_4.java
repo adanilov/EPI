@@ -1,6 +1,5 @@
 package com.mycompany.app._11_Heaps;
 
-import java.io.IOException;
 import java.io.Serializable;
 import java.util.Iterator;
 import java.util.List;
@@ -25,7 +24,7 @@ public class Task_11_4 {
         }
     }
 
-    public static List<Star> findClosestKStars(int k, Iterator<Star> osin) {
+    public static List<Star> findClosestKStars(int k, Iterator<Star> stars) {
         throw new UnsupportedOperationException();
     }
 }

@@ -14,8 +14,6 @@ public class Task_11_1 {
         }
     }
 
-    private static final int DEFAULT_INITIAL_CAPACITY = 16;
-
     public static List<Integer> mergeSortedArrays(List<List<Integer>> sortedArrays) {
         throw new UnsupportedOperationException();
     }
