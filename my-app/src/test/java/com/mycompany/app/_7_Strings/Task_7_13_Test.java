@@ -10,7 +10,7 @@ public class Task_7_13_Test extends TestCase {
 
         String tail = Task_7_13.tail("src/test/resources/testFile.txt", 3);
 
-        String expected = "line5\nline6\nline7";
+        String expected = "line4\nline5\nline6\nline7";
 
         assertTrue(tail.equals(expected));
     }

@@ -10,5 +10,4 @@ public class Task_7_13 {
     public static String tail(String fileName, int N) throws IOException {
         throw new UnsupportedOperationException();
     }
-
 }
