@@ -1,12 +1,10 @@
 package com.mycompany.app._11_Heaps;
 
-import java.io.Serializable;
-import java.util.Iterator;
-import java.util.List;
+import java.util.*;
 
 public class Task_11_4 {
 
-    public static class Star implements Comparable<Star>, Serializable {
+    public static class Star implements Comparable<Star> {
         private double x, y, z;
 
         public Star(double x, double y, double z) {
