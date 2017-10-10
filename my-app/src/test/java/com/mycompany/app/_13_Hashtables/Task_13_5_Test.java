@@ -3,9 +3,9 @@ package com.mycompany.app._13_Hashtables;
 import com.mycompany.app._13_Hashtables.BinaryTreeWithParentPrototype.BinaryTree;
 import junit.framework.TestCase;
 
-import static com.mycompany.app._13_Hashtables.Task_13_x.LCA;
+import static com.mycompany.app._13_Hashtables.Task_13_5.LCA;
 
-public class Task_13_x_Test extends TestCase {
+public class Task_13_5_Test extends TestCase {
 
     public void test0() {
         // 3
